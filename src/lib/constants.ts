@@ -1,5 +1,5 @@
 export const API_URL = "https://reef-protocol-production.up.railway.app";
-export const GITHUB_URL = "https://github.com/KjetilVaa/reef-protocol";
+export const GITHUB_URL = "https://github.com/Reef-Network/reef-protocol";
 
 export const COLORS = {
   teal: "#14b8a6",
