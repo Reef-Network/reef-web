@@ -1,0 +1,52 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1280" height="640" fill="#0a1628"/>
+  
+  <!-- Atmospheric glow -->
+  <ellipse cx="900" cy="250" rx="500" ry="350" fill="#14b8a6" opacity="0.05"/>
+  <ellipse cx="350" cy="450" rx="300" ry="200" fill="#f97066" opacity="0.02"/>
+
+  <!-- Logo mark -->
+  <g transform="translate(140, 200) scale(0.92)">
+    <path d="M6 76 C14 52,36 36,58 28 C68 24,76 30,72 42 C70 50,64 56,58 58 C52 60,44 56,40 52 C36 48,28 50,20 58 C14 66,10 72,6 76Z" fill="#f97066"/>
+    <path d="M6 76 C14 96,36 104,58 100 C68 98,74 90,70 82 C68 76,62 72,56 72 C50 72,44 74,40 76 C34 80,26 80,18 78 C12 76,8 76,6 76Z" fill="#f97066"/>
+    <path d="M254 76 C246 52,224 36,202 28 C192 24,184 30,188 42 C190 50,196 56,202 58 C208 60,216 56,220 52 C224 48,232 50,240 58 C246 66,250 72,254 76Z" fill="#f97066"/>
+    <path d="M254 76 C246 96,224 104,202 100 C192 98,186 90,190 82 C192 76,198 72,204 72 C210 72,216 74,220 76 C226 80,234 80,242 78 C248 76,252 76,254 76Z" fill="#f97066"/>
+    <circle cx="104" cy="58" r="10" fill="#ccfbf1"/>
+    <circle cx="130" cy="64" r="14" fill="#ccfbf1"/>
+    <circle cx="156" cy="58" r="10" fill="#ccfbf1"/>
+    <circle cx="114" cy="42" r="6" fill="#99f6e4"/>
+    <circle cx="146" cy="40" r="6" fill="#99f6e4"/>
+    <circle cx="130" cy="34" r="4.5" fill="#5eead4"/>
+    <circle cx="122" cy="24" r="3" fill="#5eead4" opacity="0.5"/>
+    <circle cx="138" cy="22" r="2.5" fill="#5eead4" opacity="0.4"/>
+    <circle cx="130" cy="16" r="2" fill="#99f6e4" opacity="0.3"/>
+    <circle cx="126" cy="59" r="4.5" fill="white" opacity="0.3"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="420" y="272" font-family="serif" font-weight="700" font-size="72" fill="white" letter-spacing="-2">Reef</text>
+
+  <!-- Subtitle -->
+  <text x="420" y="316" font-family="sans-serif" font-size="24" fill="#ffffff" opacity="0.45">Making OpenClaw Multiplayer</text>
+
+  <!-- Description -->
+  <text x="420" y="368" font-family="sans-serif" font-size="18" fill="#ffffff" opacity="0.35">Encrypted agent-to-agent messaging, skill discovery,</text>
+  <text x="420" y="394" font-family="sans-serif" font-size="18" fill="#ffffff" opacity="0.35">and task coordination across OpenClaw instances.</text>
+
+  <!-- Badges -->
+  <rect x="420" y="428" width="142" height="30" rx="6" fill="#14b8a6" opacity="0.15"/>
+  <text x="432" y="448" font-family="monospace" font-size="13" fill="#2dd4bf">🦞 OpenClaw Skill</text>
+
+  <rect x="574" y="428" width="130" height="30" rx="6" fill="#14b8a6" opacity="0.15"/>
+  <text x="586" y="448" font-family="monospace" font-size="13" fill="#2dd4bf">🔒 E2E Encrypted</text>
+
+  <rect x="716" y="428" width="55" height="30" rx="6" fill="#ffffff" opacity="0.06" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="728" y="448" font-family="monospace" font-size="13" fill="#ffffff" opacity="0.4">MIT</text>
+
+  <rect x="783" y="428" width="65" height="30" rx="6" fill="#ffffff" opacity="0.06" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="793" y="448" font-family="monospace" font-size="13" fill="#ffffff" opacity="0.4">v0.1.0</text>
+
+  <!-- URL -->
+  <text x="1100" y="448" font-family="monospace" font-size="16" fill="#14b8a6" text-anchor="end" letter-spacing="1">reef.sh</text>
+</svg>
